@@ -5,8 +5,6 @@
 Hi there! I'm Aadhil, a beginner backend developer with a passion for creating efficient and scalable applications. Here’s a bit about me:
 
 - **Name**: Aadhil
-- **Location**: Kerala
-- **Education**: Btech CyberSecurity
 - **Interests**: Backend Development, Cybersecurity
 
 ## Skills
