@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @aadhil06
-- 👀 I’m interested in coding, debugging, acquiring new skills..
-- 🌱 I’m currently learning python django framework 
-- 💞️ I’m looking to collaborate on as a developer..
-- 📫 How to reach me via mail aadhilks007@gmail.com
+# Welcome to My GitHub! 👋
 
-<!---
-aadhil06/aadhil06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+
+Hi there! I'm Aadhil, a beginner backend developer with a passion for creating efficient and scalable applications. Here’s a bit about me:
+
+- **Name**: Aadhil
+- **Location**: Kerala
+- **Education**: Btech CyberSecurity
+- **Interests**: Backend Development, Cybersecurity
+
+## Skills
+
+- **Backend Development**:
+  - **Languages**: Go, Python
+  - **Frameworks**: Django
+- **Cybersecurity**: Passionate about learning and exploring offensive and defensive security techniques.
