@@ -10,6 +10,6 @@ Hi there! I'm Aadhil, a beginner backend developer with a passion for creating e
 ## Skills
 
 - **Backend Development**:
-  - **Languages**: Go, Python
+  - **Languages**: Python
   - **Frameworks**: Django
 - **Cybersecurity**: Passionate about learning and exploring offensive and defensive security techniques.
